@@ -10,6 +10,7 @@ export default function Home() {
             <NavLink to="/about"><button>About</button></NavLink>
             <hr />
             <Card title="The Shawshank Redemption" year="1994" director="Frank Darabont" />
+            <Card title="Pulp Fiction" year="1994" director="Quentin Tarantino" />
         </>
     )
 }
